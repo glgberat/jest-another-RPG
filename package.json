@@ -1,0 +1,22 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "RPG game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glgberat/jest-another-RPG.git"
+  },
+  "author": "Mehmet B Huyuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glgberat/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/glgberat/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
